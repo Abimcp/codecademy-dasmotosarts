@@ -7,3 +7,7 @@ Project from Codecademy to build a simple website using a design spec
 ## Running the Project
 
 Simply open the index.html file in your favourite web browser.
+
+## Deployment
+
+Deployed via Netlify at https://codecademy-dasmotosarts.netlify.app
